@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@swc/core": "^1.10.1",
+    "@swc/core": "1.10.1",
     "@ton-community/func-js": "^0.9.0",
     "@types/node": "^22.10.2",
     "ton-core": "^0.53.0",
